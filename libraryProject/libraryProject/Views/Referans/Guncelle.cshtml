@@ -1,0 +1,39 @@
+﻿@model Referans
+
+<form method="post">
+	<div class="row">
+		<div class="col-10">
+			<div class="border p-3 mt-5">
+				<div class="row pb-3">
+					<h2 class="text-primary">Kitabı Güncelle</h2>
+					<hr />
+				</div>
+				<div class="mb-3">
+					<label asp-for="kitapAdi" class="p-0"></label>
+					<input asp-for="kitapAdi" class="form-control" />
+					<span asp-validation-for="kitapAdi" class="text-danger"></span>
+				</div>
+				<div class="mb-3">
+					<label asp-for="yazar" class="p-0"></label>
+					<input asp-for="yazar" class="form-control" />
+					<span asp-validation-for="yazar" class="text-danger"></span>
+				</div>
+				<div class="mb-3">
+					<label asp-for="kitapTuru" class="p-0"></label>
+					<input asp-for="kitapTuru" class="form-control" />
+					<span asp-validation-for="kitapTuru" class="text-danger"></span>
+				</div>
+				<div class="mb-3">
+					<label asp-for="fotopath" class="control-label"></label>
+					<input asp-for="fotopath" type="file" class="form-control" />
+					<span asp-validation-for="fotopath" class="text-danger"></span>
+				</div>
+				<button type="submit" class="btn btn-primary">Yükle</button>
+			</div>
+			<button type="submit" class="btn btn-lg btn-success" style="width:250px">Güncelle</button>
+		</div>
+		<div class="col-2" style="margin-top:50px">
+			<img src="/img/@Model.fotopath" width="100%" style="border-radius:7px; border:1px solid #bbb9b9" />
+		</div>
+	</div>
+</form>

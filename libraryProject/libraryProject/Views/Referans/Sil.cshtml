@@ -1,0 +1,24 @@
+﻿@model Referans
+<form method="post">
+	<div class="border p-3 mt-5">
+		<div class="row pb-3">
+			<h2 class="text-primary">Kitap Sil </h2>
+			<hr />
+		</div>
+		<div class="mb-3">
+			<label asp-for="kitapAdi" class="p-0"></label>
+			<input asp-for="kitapAdi" disabled class="form-control" />
+		</div>
+		<div class="mb-3">
+			<label asp-for="yazar" class="p-0"></label>
+			<input asp-for="yazar" disabled class="form-control" />
+		</div>
+	 	<div class="mb-3">
+			<label asp-for="kitapTuru" class="p-0"></label>
+			<input asp-for="kitapTuru" disabled class="form-control" />
+		</div> 
+		<button type="submit" class="btn" style="background-color:red; color:white">Sil</button>
+	</div>
+</form>
+
+ 

@@ -1,0 +1,966 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Referans\\Ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Views\\Referans\\Ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240805104846_duzeltme3.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Migrations\\20240805104846_duzeltme3.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240805063203_yeni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Migrations\\20240805063203_yeni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240802113310_miggg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Migrations\\20240802113310_miggg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240802112855_migg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Migrations\\20240802112855_migg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240802112741_migg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Migrations\\20240802112741_migg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240802112231_Eklemme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Migrations\\20240802112231_Eklemme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240802112144_ReferansEkle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Migrations\\20240802112144_ReferansEkle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\KitapTuru\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Views\\KitapTuru\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Home\\Iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Views\\Home\\Iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Home\\Hakkimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Views\\Home\\Hakkimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Referans\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Views\\Referans\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Referans\\Sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Views\\Referans\\Sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Utility\\UygulamaDbContextFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Utility\\UygulamaDbContextFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Utility\\UygulamaDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Utility\\UygulamaDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Controllers\\ReferansController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Controllers\\ReferansController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\KitapTuru\\Sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Views\\KitapTuru\\Sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\Referans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Models\\Referans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Referans\\Guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Views\\Referans\\Guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\KitapTuru\\Ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Views\\KitapTuru\\Ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\Kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Models\\Kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\kitapTuru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Models\\kitapTuru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Utility\\UserRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Utility\\UserRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Controllers\\KitapTuruController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Controllers\\KitapTuruController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\LibraryProject\\LibraryProject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryProject\\LibraryProject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\ReferansViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Models\\ReferansViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240805105625_son.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Migrations\\20240805105625_son.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\IKitapRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Models\\IKitapRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\IKitapTuruRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Models\\IKitapTuruRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\KitapRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Models\\KitapRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Models\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Models\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\ReferansRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Models\\ReferansRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\IReferansRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Models\\IReferansRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Utility\\EmailSender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Utility\\EmailSender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Areas\\Identity\\Pages\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\ScaffoldingReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\ScaffoldingReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\UygulamaDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Migrations\\UygulamaDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Shared\\_LoginPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Views\\Shared\\_LoginPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240806074638_KullaniciBilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryProject\\Migrations\\20240806074638_KullaniciBilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\KitapTuru\\Index.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Views\\KitapTuru\\Index.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\KitapTuru\\Index.cshtml",
+              "RelativeToolTip": "libraryProject\\Views\\KitapTuru\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwBwAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T12:04:14.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Iletisim.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Home\\Iletisim.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Views\\Home\\Iletisim.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Home\\Iletisim.cshtml",
+              "RelativeToolTip": "libraryProject\\Views\\Home\\Iletisim.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T06:22:51.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hakkimizda.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Home\\Hakkimizda.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Views\\Home\\Hakkimizda.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Home\\Hakkimizda.cshtml",
+              "RelativeToolTip": "libraryProject\\Views\\Home\\Hakkimizda.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T06:55:31.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Referans\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Views\\Referans\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Referans\\Ekle.cshtml",
+              "RelativeToolTip": "libraryProject\\Views\\Referans\\Ekle.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T13:25:36.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Referans\\Index.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Views\\Referans\\Index.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Referans\\Index.cshtml",
+              "RelativeToolTip": "libraryProject\\Views\\Referans\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T08:07:10.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sil.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Referans\\Sil.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Views\\Referans\\Sil.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Referans\\Sil.cshtml",
+              "RelativeToolTip": "libraryProject\\Views\\Referans\\Sil.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T13:45:55.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UygulamaDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Utility\\UygulamaDbContextFactory.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Utility\\UygulamaDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Utility\\UygulamaDbContextFactory.cs",
+              "RelativeToolTip": "libraryProject\\Utility\\UygulamaDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:25:52.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UygulamaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Utility\\UygulamaDbContext.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Utility\\UygulamaDbContext.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Utility\\UygulamaDbContext.cs",
+              "RelativeToolTip": "libraryProject\\Utility\\UygulamaDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:28:44.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\appsettings.json",
+              "RelativeDocumentMoniker": "libraryProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\appsettings.json",
+              "RelativeToolTip": "libraryProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T11:25:59.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReferansController.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Controllers\\ReferansController.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Controllers\\ReferansController.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Controllers\\ReferansController.cs",
+              "RelativeToolTip": "libraryProject\\Controllers\\ReferansController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAIBJwFQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:14:15.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Sil.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\KitapTuru\\Sil.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Views\\KitapTuru\\Sil.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\KitapTuru\\Sil.cshtml",
+              "RelativeToolTip": "libraryProject\\Views\\KitapTuru\\Sil.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T11:57:36.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "libraryProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAIBJwDwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T05:56:54.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Program.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Program.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Program.cs",
+              "RelativeToolTip": "libraryProject\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:49:04.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Referans.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\Referans.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Models\\Referans.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\Referans.cs",
+              "RelativeToolTip": "libraryProject\\Models\\Referans.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:13:51.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Referans\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Views\\Referans\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Referans\\Guncelle.cshtml",
+              "RelativeToolTip": "libraryProject\\Views\\Referans\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T08:07:12.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\KitapTuru\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Views\\KitapTuru\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\KitapTuru\\Ekle.cshtml",
+              "RelativeToolTip": "libraryProject\\Views\\KitapTuru\\Ekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T12:10:37.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\Kitap.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Models\\Kitap.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\Kitap.cs",
+              "RelativeToolTip": "libraryProject\\Models\\Kitap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:28:21.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "libraryProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwC4AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T10:41:43.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "kitapTuru.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\kitapTuru.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Models\\kitapTuru.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\kitapTuru.cs",
+              "RelativeToolTip": "libraryProject\\Models\\kitapTuru.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:52:02.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Utility\\UserRoles.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Utility\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Utility\\UserRoles.cs",
+              "RelativeToolTip": "libraryProject\\Utility\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:56:07.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "KitapTuruController.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Controllers\\KitapTuruController.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Controllers\\KitapTuruController.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Controllers\\KitapTuruController.cs",
+              "RelativeToolTip": "libraryProject\\Controllers\\KitapTuruController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwCoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:25:54.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "libraryProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T08:26:58.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LibraryProject.csproj",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\LibraryProject.csproj",
+              "RelativeDocumentMoniker": "libraryProject\\LibraryProject.csproj",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\LibraryProject.csproj",
+              "RelativeToolTip": "libraryProject\\LibraryProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T07:42:52.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "libraryProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:17:00.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReferansViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\ReferansViewModel.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Models\\ReferansViewModel.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\ReferansViewModel.cs",
+              "RelativeToolTip": "libraryProject\\Models\\ReferansViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:26:30.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240805105625_son.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240805105625_son.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Migrations\\20240805105625_son.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240805105625_son.cs",
+              "RelativeToolTip": "libraryProject\\Migrations\\20240805105625_son.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwDMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:56:25.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IKitapRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\IKitapRepository.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Models\\IKitapRepository.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\IKitapRepository.cs",
+              "RelativeToolTip": "libraryProject\\Models\\IKitapRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:39:02.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IKitapTuruRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\IKitapTuruRepository.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Models\\IKitapTuruRepository.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\IKitapTuruRepository.cs",
+              "RelativeToolTip": "libraryProject\\Models\\IKitapTuruRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:23:26.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "KitapRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\KitapRepository.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Models\\KitapRepository.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\KitapRepository.cs",
+              "RelativeToolTip": "libraryProject\\Models\\KitapRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:39:09.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\Repository.cs",
+              "RelativeToolTip": "libraryProject\\Models\\Repository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:34:51.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\IRepository.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Models\\IRepository.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\IRepository.cs",
+              "RelativeToolTip": "libraryProject\\Models\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:24:56.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ReferansRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\ReferansRepository.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Models\\ReferansRepository.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\ReferansRepository.cs",
+              "RelativeToolTip": "libraryProject\\Models\\ReferansRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:15:59.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IReferansRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\IReferansRepository.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Models\\IReferansRepository.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Models\\IReferansRepository.cs",
+              "RelativeToolTip": "libraryProject\\Models\\IReferansRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:14:41.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Utility\\EmailSender.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Utility\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Utility\\EmailSender.cs",
+              "RelativeToolTip": "libraryProject\\Utility\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:32:48.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "libraryProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAIBJwC0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T07:35:38.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "libraryProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T07:35:11.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LoginWith2fa.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "RelativeToolTip": "libraryProject\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwAgAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T07:33:27.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LoginWithRecoveryCode.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "RelativeToolTip": "libraryProject\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T07:34:22.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "libraryProject\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T07:28:50.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "libraryProject\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T07:37:41.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "libraryProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAIBJwEkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T07:30:24.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Lockout.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "RelativeToolTip": "libraryProject\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T07:29:41.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "libraryProject\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T07:28:28.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "libraryProject\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T12:16:02.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "libraryProject\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T07:28:07.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "libraryProject\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "libraryProject\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-05T11:18:42.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "bootstrap.rtl.css",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.css",
+              "RelativeDocumentMoniker": "libraryProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.css",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.css",
+              "RelativeToolTip": "libraryProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T11:58:17.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "libraryProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "libraryProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T11:58:37.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "libraryProject\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "libraryProject\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-06T07:32:40.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UygulamaDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\UygulamaDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Migrations\\UygulamaDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\UygulamaDbContextModelSnapshot.cs",
+              "RelativeToolTip": "libraryProject\\Migrations\\UygulamaDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:53:16.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "libraryProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "libraryProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T07:34:06.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20240806074638_KullaniciBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240806074638_KullaniciBilgileri.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Migrations\\20240806074638_KullaniciBilgileri.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240806074638_KullaniciBilgileri.cs",
+              "RelativeToolTip": "libraryProject\\Migrations\\20240806074638_KullaniciBilgileri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:46:38.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240805104846_duzeltme3.2.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240805104846_duzeltme3.2.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Migrations\\20240805104846_duzeltme3.2.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240805104846_duzeltme3.2.cs",
+              "RelativeToolTip": "libraryProject\\Migrations\\20240805104846_duzeltme3.2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:48:46.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240805063203_yeni.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240805063203_yeni.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Migrations\\20240805063203_yeni.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240805063203_yeni.cs",
+              "RelativeToolTip": "libraryProject\\Migrations\\20240805063203_yeni.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:32:03.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240802113310_miggg.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240802113310_miggg.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Migrations\\20240802113310_miggg.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240802113310_miggg.cs",
+              "RelativeToolTip": "libraryProject\\Migrations\\20240802113310_miggg.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:33:10.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240802112855_migg.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240802112855_migg.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Migrations\\20240802112855_migg.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240802112855_migg.cs",
+              "RelativeToolTip": "libraryProject\\Migrations\\20240802112855_migg.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:28:56.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240802112741_migg.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240802112741_migg.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Migrations\\20240802112741_migg.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240802112741_migg.cs",
+              "RelativeToolTip": "libraryProject\\Migrations\\20240802112741_migg.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:27:41.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240802112231_Eklemme.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240802112231_Eklemme.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Migrations\\20240802112231_Eklemme.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240802112231_Eklemme.cs",
+              "RelativeToolTip": "libraryProject\\Migrations\\20240802112231_Eklemme.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:22:32.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240802112144_ReferansEkle.cs",
+              "DocumentMoniker": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240802112144_ReferansEkle.cs",
+              "RelativeDocumentMoniker": "libraryProject\\Migrations\\20240802112144_ReferansEkle.cs",
+              "ToolTip": "C:\\Users\\OmerAzra\\source\\repos\\libraryProject\\libraryProject\\Migrations\\20240802112144_ReferansEkle.cs",
+              "RelativeToolTip": "libraryProject\\Migrations\\20240802112144_ReferansEkle.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:21:44.789Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

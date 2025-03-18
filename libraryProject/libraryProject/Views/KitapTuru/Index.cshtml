@@ -1,0 +1,104 @@
+﻿@using LibraryProject.Utility
+@model List<kitapTuru>
+
+<div class="container">
+    <div class="row pt-3 pb-4">
+        <div class="col text-center">
+            <h1 class="text-brown">Kitap Türleri</h1>
+        </div>
+    </div>
+
+    <div class="table-container">
+        <table class="table table-hover table-striped">
+            <thead>
+                <tr>
+                    <th class="text-center">Id</th>
+                    <th class="text-center">Kitap Türü</th>
+                    @if (User.IsInRole(UserRoles.roleAdmin) || User.IsInRole(UserRoles.roleYonetici))
+                    {
+                        <th class="text-center">Aksiyonlar</th>
+                    }
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var kitapTuru in Model)
+                {
+                    <tr>
+                        <td class="text-center">@kitapTuru.Id</td>
+                        <td class="text-center">@kitapTuru.Ad</td>
+                        @if (User.IsInRole(UserRoles.roleAdmin) || User.IsInRole(UserRoles.roleYonetici))
+                        {
+                            <td class="text-center">
+                                <a asp-controller="kitapTuru" asp-action="Guncelle" asp-route-id="@kitapTuru.Id" 
+                                class="btn btn-outline-primary btn-sm me-2">Güncelle</a>
+                                <a asp-controller="kitapTuru" asp-action="Sil" asp-route-id="@kitapTuru.Id" 
+                                class="btn btn-outline-danger btn-sm">Sil</a>
+                            </td>
+                        }
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    @if (User.IsInRole(UserRoles.roleAdmin) || User.IsInRole(UserRoles.roleYonetici))
+    {
+        <div class="row pt-3 pb-2">
+            <div class="col text-center">
+                <a asp-controller="kitapTuru" asp-action="Ekle" 
+                class="btn btn-primary btn-lg">Yeni Kitap Türü Ekle</a>
+            </div>
+        </div>
+    }
+</div>
+
+<style>
+    .text-brown {
+        color: #8B4513; /* Koyu kahverengi */
+    }
+
+    .table-container {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .table {
+        border-collapse: separate;
+        border-spacing: 0 15px; /* Satırlar arasında mesafe */
+    }
+
+        .table th, .table td {
+            text-align: center;
+            vertical-align: middle;
+            padding: 15px;
+        }
+
+    .table-hover tbody tr:hover {
+        background-color: #f1f1f1;
+    }
+
+    .btn-outline-primary, .btn-outline-danger {
+        font-size: 0.875rem;
+        padding: 0.375rem 0.75rem;
+    }
+
+    .btn-outline-primary {
+        border-color: #007bff;
+        color: #007bff;
+    }
+
+        .btn-outline-primary:hover {
+            background-color: #007bff;
+            color: white;
+        }
+
+    .btn-outline-danger {
+        border-color: #dc3545;
+        color: #dc3545;
+    }
+
+        .btn-outline-danger:hover {
+            background-color: #dc3545;
+            color: white;
+        }
+</style>
